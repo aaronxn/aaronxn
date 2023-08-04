@@ -1,6 +1,6 @@
 # User: @aaronxn
 
-My Lab: https://a-xn.net/
+[a-xn.net/about/aaron](https://a-xn.net/about/aaron)
 
 <!---
 aaronxn/aaronxn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
